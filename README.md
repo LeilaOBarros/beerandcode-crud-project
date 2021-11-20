@@ -2,7 +2,7 @@
 
 ### Sobre o Projeto
 
-Nesse projeto, foi desenvolvido um sistema de uma Cervejaria Artesal dada o nome fictício Beer and Code
+Nesse projeto foi desenvolvido um sistema de uma Cervejaria Artesal dada o nome fictício Beer and Code
  
  ### Objetivo do Projeto
 

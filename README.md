@@ -10,3 +10,6 @@ A ideia trata-se de um sistema de cervejaria artesanal chamada Beer And Code que
 
 * Exercitar a linguagem de programação [Java](https://www.java.com/pt-BR/) e a conexão com o Banco de Dados [MySQL](https://www.mysql.com).
 * Criar um CRUD(CREATE, READ, UPDATE e DELETE).
+
+###Video Explicativo do Projeto
+* https://youtu.be/DGS1iEx7dDs
